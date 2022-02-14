@@ -5,3 +5,5 @@ This project's goal is to create a more easy to read character sheet, but it wil
 First page is for general combat and stats, the attack column is large to accomodate casters.
 
 Second page is for skills- The 5 blocks at the top are for things like Ki, Channel Divinity, ammo, etc. The 3 columns are for skills and feats to be filled out at player's discretion- this may get edited as this can be a pretty populated section. It is generic for now.
+
+Third page is for Gear, again it is generic as some tables may play with encumberance while others may not so I didn't want to add noise to the sheet.
